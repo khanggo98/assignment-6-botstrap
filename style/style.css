@@ -1,0 +1,31 @@
+header{
+    z-index: 100;
+}
+#hero-section{
+    background-image: url(../aserts/1.jpeg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+}
+#br{
+    background-color: rgba(0, 0, 0, 0.719);
+    
+}
+.br-text{
+    letter-spacing: 3px;
+}
+.card{
+    margin-bottom: 15px;
+}
+.btn-contact{
+    background-color: rgb(223, 220, 220);
+    border-radius: 0;
+}
+.btn-contact:hover{
+    background-color: rgb(172, 170, 170);
+
+}
+#about-section img{
+    filter: grayscale(70%);
+}
